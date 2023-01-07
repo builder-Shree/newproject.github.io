@@ -1,0 +1,18 @@
+.main-heading{
+    background-color: blue;
+    
+}
+button{
+    display:inline-flexbox;
+    background:red;
+    color:#f4f4f4;
+    font-size:16px;
+    font-weight:normal;
+    text-align:center;
+    border-radius:6px;
+
+
+}
+style{
+    background-color:pink;
+}
